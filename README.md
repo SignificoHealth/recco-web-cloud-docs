@@ -19,6 +19,8 @@ For authentication, Recco expects a _Session-Token_ as query param in the URL:
 
 **Step 1: Get Transient Token** 
 
+Create a one-time PAT for the app, with a 1-minute lifespan and scoped to the supplied User-Id.
+
 Call `POST https://recco-api.significo.dev/api/v1/app_users/transient_tokens`
 
 Add an `Authorization` header to this request and add your _App-Token_ there (the token you received in the Recco Backoffice):  
