@@ -4,7 +4,7 @@ Get in contact by following this link: https://www.significo.com/recco
 ## Setup
 
 ### Within the Recco Backoffice
-* Log in to the [Recco Backoffice](https://recco-admin.significo.dev/) and follow the steps to configure you application
+* Log in to the [Recco Backoffice](https://recco-admin.significo.dev/) and follow the steps to configure your application
 * Create an _App-Token_ within the Recco Backoffice, copy it and keep it safe
 
 ### In your web-application
